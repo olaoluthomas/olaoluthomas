@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there
 I'm a Machine Learning Engineer with core competencies using Python for development.
 
 ## 🔭 What I Do
