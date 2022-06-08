@@ -1,5 +1,5 @@
 ## 👋 Hi there
-I'm a Machine Learning Engineer with core competencies using Python for development.
+I'm a Machine Learning Engineer with core competencies using :snake: Python for development.
 
 ## 🔭 What I Do
 Most of my programming time is spent developing packages/source distributions to build ML models, experimenting, and deploying these models to production.
@@ -9,7 +9,7 @@ Unfortunately, most of my cool projects are owned by my employers (past and pres
 I'm learning how to maximize Google Cloud's Vertex AI capabilities for MLOps.
 I'm also learning Docker and Kubernetes.
 
-## Tools I Use
+## :wrench: Tools I Use
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" width="30" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="60" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" height="60" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" height="60" width="40"/>
