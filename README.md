@@ -3,7 +3,7 @@ I'm a Machine Learning Engineer with core competencies using :snake: Python for 
 
 ## 🔭 What I Do
 Most of my programming time is spent developing packages/source distributions to build ML models, experimenting, and deploying these models to production.
-Unfortunately, most of my cool projects are owned by my employers (past and present) but I'm putting a few solutions together to showcase here.
+Unfortunately, most of my cool projects are owned by my employers (past and present) but I'm putting a few open source solutions together to showcase here.
 
 ## 🌱 What I'm Learning
 I'm learning how to maximize Google Cloud's Vertex AI capabilities for MLOps.
