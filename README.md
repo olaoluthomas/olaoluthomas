@@ -10,7 +10,7 @@ I'm learning how to maximize Google Cloud's Vertex AI capabilities for MLOps.
 I'm also learning Docker and Kubernetes.
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
           
 
 ## 📫 How to reach me: 
