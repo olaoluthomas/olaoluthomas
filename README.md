@@ -7,6 +7,7 @@ Unfortunately, most of my cool projects are owned by my employers (past and pres
 
 ## 🌱 What I'm Learning
 I'm learning how to maximize Google Cloud's Vertex AI capabilities for MLOps.
+I'm also learning Docker and Kubernetes.
 
 ## 📫 How to reach me: 
 Email me thomasolaoluwa@gmail.com
