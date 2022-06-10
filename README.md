@@ -15,7 +15,7 @@ I'm also learning Docker and Kubernetes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="60" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" height="60" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" height="60" width="40"/>
 
 ## 📫 How to reach me: 
-Email me thomasolaoluwa@gmail.com
+:e-mail: Email me thomasolaoluwa@gmail.com
 
 <!--
 **olaoluthomas/olaoluthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
