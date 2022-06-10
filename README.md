@@ -1,5 +1,5 @@
 ## 👋 Hi there
-I'm a Machine Learning Engineer with core competencies using :snake: Python for development.
+I'm a Machine Learning Engineer with core competencies using :snake: Python for development in :cloud: The Cloud.
 
 ## 🔭 What I Do
 Most of my programming time is spent developing packages/source distributions to build ML models, experimenting, and deploying these models to production.
