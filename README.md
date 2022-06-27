@@ -17,7 +17,8 @@ I'm also learning :whale: Docker and Kubernetes.
 ## 📫 How to reach me: 
 :e-mail: Email me thomasolaoluwa@gmail.com
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="olaoluthomas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/olaoluthomas?trk=profile-badge">Simeon O. Thomas</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="olaoluthomas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/olaoluthomas?trk=profile-badge">Simeon O. Thomas</a></div>
+              
 
 <!--
 **olaoluthomas/olaoluthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
