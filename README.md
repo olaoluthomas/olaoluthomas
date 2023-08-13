@@ -1,13 +1,11 @@
 ## 👋 Hi there
-I'm a Data Scientist/Machine Learning Engineer with core competencies using :snake: Python for development in :cloud: The Cloud.
+I'm a Data Scientist/Machine Learning Engineer with core competencies using :snake: Python for development in :cloud: The Cloud to develop applications that solve strategic business problems.
 
 ## 🔭 What I Do
-Most of my programming time is spent developing packages/source distributions, using these packages to develop ML models, experimenting, and deploying these models to production.
-Unfortunately, most of my cool projects are owned by my employers (past and present) but I'm putting a few open source solutions together to showcase here.
+I develop AI solutions and source distributions, perform robust experimentation and deploy to production.
 
 ## 🌱 What I'm Learning
-I'm learning how to maximize Google Cloud's Vertex AI capabilities for MLOps.
-I'm also learning :whale: Docker and :ferris_wheel: Kubernetes.
+I'm learning to use :whale: Docker and :ferris_wheel: Kubernetes to deploy AI at scale.
 
 ## :wrench: Tools I Use
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" width="30" />
