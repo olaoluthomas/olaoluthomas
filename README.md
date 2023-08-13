@@ -1,5 +1,5 @@
 ## 👋 Hi there
-I'm a Data Scientist/Machine Learning Engineer with core competencies using :snake: Python for development in :cloud: The Cloud to develop applications that solve strategic business problems.
+I'm a Data Scientist/Machine Learning Engineer with core competencies using :snake: Python for in :cloud: The Cloud to develop applications that solve strategic business problems.
 
 ## 🔭 What I Do
 I develop AI solutions and source distributions, perform robust experimentation and deploy to production.
